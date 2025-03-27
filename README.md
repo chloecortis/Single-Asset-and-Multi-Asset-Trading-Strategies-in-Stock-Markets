@@ -23,9 +23,9 @@ cd single-asset-and-multi-asset-trading-strategies-in-stock-markets
 ```
 
 ### 2. Running Experiments
-- The **code/** directory contains two distinct python scripts pertaining to the single-asset portfolio and multi-asset portfolio implementation, respectively. Note that these python scripts are git repositories of two seperate authors.
-- The **results/** directory holds output files generated from the two python scripts.
-- The **data/** directory holds the dataset used for every stock present in this study.
+- The `code/` directory contains two distinct python scripts pertaining to the single-asset portfolio and multi-asset portfolio implementation, respectively. Note that these python scripts are git repositories of two seperate authors.
+- The `results/` directory holds output files generated from the two python scripts.
+- The `data/` directory holds the dataset used for every stock present in this study.
 
 To execute a specific trading strategues, please follow the instructions listed in the code repsorty pertaining to each of the python scripts.
 
