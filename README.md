@@ -4,12 +4,13 @@ This repository serves as a comprehensive collection of outputs and results rela
 
 ## Repository Structure
 
-single-asset-and-multi-asset-trading-strategies-in-stock-markets/
-│── ```code/```               # Trading strategy implementations from different sources
-│── ```data/```               # Datasets used for backtesting and analysis
-│── ```results/```            # Generated results, performance metrics, and visualizations
-│── ```dissertation/```       # LaTeX files and final PDF of the dissertation
-│── ```README.md```           # Project documentation and guidelines
+| Directory Name           | Description                                                            |
+|--------------------------|------------------------------------------------------------------------|
+| `code/`                  | Trading strategy implementations from different sources                |
+| `data/`                  | Datasets used for backtesting and analysis                             |
+| `results/`               | Generated results, performance metrics, and visualizations             |
+| `dissertation/`          | LaTeX files and final PDF of the dissertation                          |
+| `README.md`              | Project documentation and guidelines                                   |
 
 ## Getting Started
 
