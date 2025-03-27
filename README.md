@@ -32,7 +32,6 @@ To execute a specific trading strategues, please follow the instructions listed 
 
 ### 3. Results and Analysis
 - All generated results, including backtesting performance and statistical metrics, are stored in the `results/` directory.
-- Additional analysis and comparisons are available in the `notebooks/` directory.
 
 ### 4. Dissertation
 The theoretical foundation and extensive research findings supporting these trading strategies are documented in my dissertation, located in the `dissertation/` directory.
