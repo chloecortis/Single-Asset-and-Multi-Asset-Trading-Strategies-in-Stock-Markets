@@ -1,0 +1,39 @@
+Results Overview
+
+This directory contains the graphical outputs generated from the analysis of optimal trading strategies applied to various stocks. For each stock, two graphs are provided:
+
+    Price vs. Time – This graph illustrates the stock's price movements over the backtesting period, providing insights into market trends and fluctuations.
+    Capital vs. Time – This graph tracks the capital evolution when applying the trading strategy, reflecting the profitability and risk exposure over time.
+
+These visualizations enable a comparative analysis of single-asset and multi-asset trading approaches, helping to evaluate the effectiveness of different strategies under varying market conditions.
+
+1. Netflix
+2. META
+3. Paypal
+4. Ford
+5. Paramount
+6. Intel
+7. Russell 2000 Index
+8. NYSE
+9. BMW
+10. ASML
+11. Barclays
+12. CNOOC
+13. DAX
+14. Fujistu
+15. Fujifilm
+16. HSI
+17. ASUS
+18. Nissan
+19. NDIVIA
+20. Schnieder Electric
+21. Tsinstgo
+22. Samusng
+23. SAP 
+24. Bank of China
+25. Nasdaq
+26. PepsiCo
+27. Lindt
+28. Exxon
+29. BP 
+30. Cisco
