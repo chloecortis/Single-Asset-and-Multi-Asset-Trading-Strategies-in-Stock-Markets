@@ -1,6 +1,6 @@
 # Optimal Trading Strategies for Single-Asset and Multi-Asset Portfolios
 
-This repository contains a comprehensive collection of outputs and results related to my dissertation on **Optimal Trading Strategies in Stock Markets**. The codes employed in this study are sourced from various GitHub repositories, while the theoretical framework and analysis are thoroughly documented in my dissertation.
+This repository contains a comprehensive collection of outputs and results related to my dissertation on **Optimal Trading Strategies in Stock Markets**. The codes employed in this study are sourced from two GitHub repositories, while the theoretical framework and analysis are thoroughly documented in my dissertation.
 
 ## Repository Structure
 
