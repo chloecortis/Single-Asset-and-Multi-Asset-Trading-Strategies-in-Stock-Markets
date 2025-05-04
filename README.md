@@ -30,10 +30,7 @@ cd single-asset-and-multi-asset-trading-strategies-in-stock-markets
 ### 3. Results and Analysis
 - All generated results, including backtesting performance and statistical metrics, are stored in the `results/` directory.
 
-### 4. Dissertation
-The theoretical foundation and research findings underpinning these trading strategies are extensively documented in my dissertation, accessible via the following link: **INSERT LINK**.
-
-### 5. Disclaimer
+### 4. Disclaimer
 This repository is intended solely for experimental and educational purposes. The author does not provide financial, investment, or trading advice. Any strategies or models implemented herein are purely theoretical. The author assumes no responsibility for financial losses, damages, or other consequences resulting from the use of this material. Users are strongly encouraged to conduct independent research and seek guidance from a qualified financial professional before making any trading decisions.
 
 For inquiries or potential collaboration opportunities, please feel free to reach out.
